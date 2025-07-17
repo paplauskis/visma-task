@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee9c8b47_002D7c05_002D41aa_002Dac83_002D5c8b011fbf89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_ShouldAddShortage_WhenNoDuplicateExists" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::0C335DC9-7BF7-442A-8BC2-F4CB6DB40EB6::net8.0::Tests.ShortageRepositoryTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::0C335DC9-7BF7-442A-8BC2-F4CB6DB40EB6::net8.0::Tests.ShortageServiceTests.WhenShortageDoesNotExist_ShouldAddShortage&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
